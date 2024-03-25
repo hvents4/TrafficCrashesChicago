@@ -3,7 +3,6 @@
 
 title: Analysis of Traffic Crashes in Chicago
 author: Haley Ventura
-logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
