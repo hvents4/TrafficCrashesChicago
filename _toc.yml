@@ -4,7 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-- file: Project - Traffic Crash Analysis
-  title: Full Analysis in Python
-- file: Project Summary
-  title: Simplified Analysis in Python
+- file: Full Analysis in Python
+- file: Simplified Analysis in Python
